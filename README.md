@@ -7,7 +7,7 @@
 
 [2，网络游戏服务器开发杂记--区服管理](https://github.com/zuhd/blog/issues/2)
 
-[3, 网络游戏服务器开发杂记---登陆和角色列表](https://github.com/zuhd/blog/issues/3)
+[3，网络游戏服务器开发杂记---登陆和角色列表](https://github.com/zuhd/blog/issues/3)
 
 ### 0x01:量化笔记
 
