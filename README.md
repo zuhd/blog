@@ -3,9 +3,11 @@
 这里会记录我平时工作中的技术积累，部分内容会以连载的形式发布，其中主要的技术栈方向大致为：
 
 ### 0x00: 游戏服务器设计
-[1，游戏服务器杂记--开篇](https://github.com/zuhd/blog/issues/1)
+[1，网络游戏服务器开发杂记--开篇](https://github.com/zuhd/blog/issues/1)
 
-[2，游戏服务器杂记--区服管理](https://github.com/zuhd/blog/issues/2)
+[2，网络游戏服务器开发杂记--区服管理](https://github.com/zuhd/blog/issues/2)
+
+[3, 网络游戏服务器开发杂记---登陆和角色列表](https://github.com/zuhd/blog/issues/3)
 
 ### 0x01:量化笔记
 
