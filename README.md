@@ -9,6 +9,8 @@
 
 [3，网络游戏服务器开发杂记---登陆和角色列表](https://github.com/zuhd/blog/issues/3)
 
+[4，网络游戏服务器开发杂记---登陆场景](https://github.com/zuhd/blog/issues/4)
+
 ### 0x01:量化笔记
 
 ### 0x02: 区块链源码研读
