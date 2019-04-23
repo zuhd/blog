@@ -18,3 +18,5 @@
 
 [2，比特币源码研读---交易](https://github.com/zuhd/blog/issues/6)
 
+[2，比特币源码研读---交易细节](https://github.com/zuhd/blog/issues/7)
+
