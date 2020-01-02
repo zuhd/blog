@@ -21,5 +21,5 @@
 [2，比特币源码研读---交易细节](https://github.com/zuhd/blog/issues/7)
 
 ### 0x03: 总结
-[1, 2019年小结](https://github.com/zuhd/blog/issues/8)
+[1，2019年小结](https://github.com/zuhd/blog/issues/8)
 
