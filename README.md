@@ -11,6 +11,8 @@
 
 [4，网络游戏服务器开发杂记---登陆场景](https://github.com/zuhd/blog/issues/4)
 
+[5，网络游戏服务器开发杂记---用微服务的思想来开发游戏](https://github.com/zuhd/blog/issues/9)
+
 ### 0x01:量化笔记
 
 ### 0x02: 区块链源码研读
