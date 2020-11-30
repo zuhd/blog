@@ -15,6 +15,8 @@
 
 [6，网络游戏服务器开发杂记---战场技能](https://github.com/zuhd/blog/issues/10)
 
+[7，网络游戏服务器开发杂记---FPS游戏同步](https://github.com/zuhd/blog/issues/11)
+
 ### 0x01:量化笔记
 
 ### 0x02: 区块链源码研读
