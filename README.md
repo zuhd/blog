@@ -17,15 +17,9 @@
 
 [7，网络游戏服务器开发杂记---FPS游戏同步机制](https://github.com/zuhd/blog/issues/11)
 
-### 0x01:量化笔记
-
-### 0x02: 区块链源码研读
+### 0x01: 区块链源码研读
 [1，比特币源码研读---开篇](https://github.com/zuhd/blog/issues/5)
 
 [2，比特币源码研读---交易](https://github.com/zuhd/blog/issues/6)
 
 [3，比特币源码研读---交易细节](https://github.com/zuhd/blog/issues/7)
-
-### 0x03: 总结
-[1，2019年小结](https://github.com/zuhd/blog/issues/8)
-
